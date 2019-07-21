@@ -13,8 +13,7 @@
 
 ## 2019
 
-**七月**：[第 1 期：乔布斯传](docs/0001.md) 
-
+**七月**：[第 1 期：乔布斯传](docs/0001.md) | [第 2 期：How to Become a Straight-A Student](docs/0002.md) 
 
 
 ### 微信群
